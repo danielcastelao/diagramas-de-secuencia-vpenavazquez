@@ -7,7 +7,7 @@ class Second:
         return valor_retorno
 
 def main():
-    print("Main: iniciando interaccion")
+    print("Main iniciando interaccion")
 
     second = Second()
 
