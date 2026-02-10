@@ -8,3 +8,5 @@ En esta tarea trabajaremos sobre digramas de secuencias, para llevarlos a códig
 
 - Realiza el código correspondiente a los diagramas de secuencia de los issues abiertos
 - Por cada issue resuelto crea un Pull Request explicando lo realizado y haciendo referencia al issue
+
+victor
